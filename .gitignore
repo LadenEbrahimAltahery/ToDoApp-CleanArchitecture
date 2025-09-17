@@ -1,0 +1,25 @@
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+out/
+
+# Visual Studio cache files
+*.vsidx
+*.vscode/
+
+# Dotnet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+*.log
+*.tmp
+*.DS_Store
